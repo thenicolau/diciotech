@@ -22,9 +22,7 @@
     },
     {
       "title": "AIoT",
-      "tags": [
-        "Conceito"
-      ],
+      "tags": ["Conceito"],
       "description": "AIoT (Artificial Intelligence of Things), ou Inteligência Artificial das Coisas, é a combinação de Inteligência Artificial (IA) com a Internet das Coisas (IoT). Seu principal objetivo é automatizar e acelerar o processamento dos dados gerados pelos dispositivos de IoT, com o mínimo de intervenção humana. Isso facilita a análise dos dados e torna a tomada de decisões mais rápida. Sem a IA, embora houvesse um grande volume de informações disponíveis, seria necessário depender da intervenção humana para torná-las úteis."
     },
     {
@@ -144,9 +142,7 @@
     },
     {
       "title": "Cidades Inteligentes",
-      "tags": [
-        "Conceito"
-      ],
+      "tags": ["Conceito"],
       "description": "Cidades Inteligentes (Smart Cities) são localidades que utilizam infraestrutura urbana organizada e tecnologias digitais para otimizar seus processos. Isso inclui o uso de dispositivos com Inteligência Artificial e Internet das Coisas, entre outros."
     },
     {
@@ -417,9 +413,7 @@
     },
     {
       "title": "IoT",
-      "tags": [
-        "Conceito"
-      ],
+      "tags": ["Conceito"],
       "description": "IoT (Internet of Things), ou Internet das Coisas, é um tipo de tecnologia composto por uma rede de dispositivos e objetos interconectados, como sensores, câmeras, itens domésticos, aparelhos eletrônicos e veículos, por exemplo. Seu objetivo é basicamente conectar os mais diversos equipamentos à internet com o intuito de captar e trocar dados com outros dispositivos, variando desde simples objetos caseiros a sofisticadas ferramentas industriais."
     },
     {
@@ -754,9 +748,7 @@
     },
     {
       "title": "TI Verde",
-      "tags": [
-        "Conceito"
-      ],
+      "tags": ["Conceito"],
       "description": "A TI Verde, do inglês Green IT, também podendo ser chamada de TI Ecológica ou Computação Verde, representa o lado sustentável da tecnologia da informação. Seu conceito gira em torno da análise e implementação de iniciativas e programas que repercutem na sustentabilidade ambiental e responsabilidade social de empresas e organizações, seu principal destaque é fazer da tecnologia uma potencial fonte de soluções para problemas ambientais."
     },
     {
